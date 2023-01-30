@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sulscott
-- 👀 I’m interested in exciting new opportunities in Web3 (Web4 - 7 also ok)
-- 🌱 I’m currently learning Solidity, Graph Protocol and Rust
-- 💞️ I’m looking to collaborate on open source projects in Web3 to hone my skills
+- 👀 I’m interested in exciting new opportunities to leverage my software engineering skills and ship code quickly.
+- 🌱 Interested in traditional full time roles as well as internship in roles adjacent to Software Development such as devops and data science/analytics
 - 📫 How to reach me: sullivan.scottmichael@gmail.com
 
 <!---
